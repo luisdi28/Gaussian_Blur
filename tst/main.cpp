@@ -16,7 +16,7 @@ public:
         // Chequea si hay fallos
         if (image.empty()) {
             cout << "Could not open or find the image" << endl;
-            cin.get(); //wait for any key press
+            cin.get(); // Espera para que alguna tecla sea presionada
             return -1;
         }
 
