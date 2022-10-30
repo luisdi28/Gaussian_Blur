@@ -1,12 +1,15 @@
 # ninja log v5
+4290	4325	1667067937254723500	lib/libgmock.a	3bac815e00933bc6
 1411	1519	1664602612290618824	Gaussian_Blur	f78897e6357d1154
-1	885	1667067933814827442	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	21bc4d420dd599b0
+4238	4290	1667067937218724584	lib/libgtest.a	6802aad170ccebec
 1	1115	1667067934046820410	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	f754ded65f07eb2c
 0	2286	1667067935214785066	CMakeFiles/servidor.dir/main.cpp.o	ddc33e057c6138e7
-0	2604	1667067935534775397	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	95ba4648e15484c9
-1	4238	1667067937162726271	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	4724ca1818890eda
-4238	4290	1667067937218724584	lib/libgtest.a	6802aad170ccebec
-4290	4314	1667067937246723741	lib/libgtest_main.a	885d1b730798b43d
-4290	4325	1667067937254723500	lib/libgmock.a	3bac815e00933bc6
-4325	4348	1667067937278722778	lib/libgmock_main.a	bbde190806803d07
+1	885	1667067933814827442	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	21bc4d420dd599b0
 4348	4512	1667067937442717839	servidor	52c3123e67b18edc
+4325	4348	1667067937278722778	lib/libgmock_main.a	bbde190806803d07
+1	4238	1667067937162726271	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	4724ca1818890eda
+4290	4314	1667067937246723741	lib/libgtest_main.a	885d1b730798b43d
+0	2604	1667067935534775397	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	95ba4648e15484c9
+0	355	1667091021016396570	build.ninja	4bd5374dc63ccd1f
+1	2258	1667091064004015174	CMakeFiles/servidor.dir/main.cpp.o	ddc33e057c6138e7
+2259	2967	1667091064712008816	servidor	52c3123e67b18edc

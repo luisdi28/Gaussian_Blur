@@ -10,7 +10,6 @@ add_subdirectory(lib/googletest)
 
 enable_testing()
 
-
 add_executable(servidor main.cpp)
 
 target_link_libraries( servidor
